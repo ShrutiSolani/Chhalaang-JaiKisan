@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1071717653133",
+    "project_id": "chhalaang-hack",
+    "storage_bucket": "chhalaang-hack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071717653133:android:c3b42807f81a29c594a0c4",
+        "android_client_info": {
+          "package_name": "com.yourcompany.JaiKisan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071717653133-a6apdqbttqithl5fhv7bfps2ialrfn60.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1P8kTyM3QjEchI6tMYnZiYHMcfG-ZaL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071717653133-a6apdqbttqithl5fhv7bfps2ialrfn60.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
